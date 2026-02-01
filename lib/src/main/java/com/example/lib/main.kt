@@ -1,3 +1,5 @@
+//Aflveringen starter fra linje 177//
+
 package com.example.lib
 
 import kotlin.math.abs
