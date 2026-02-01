@@ -177,7 +177,7 @@ val filter = prices.filter { it > 10 }
 fun main () {
 
     //Opgave 1//
-
+//Funktion starter fra linje: 292//
     println("Opgave 1:")
 
     println("Please enter your age: ")
@@ -193,7 +193,7 @@ fun main () {
 
 
     //Opgave 2//
-
+//Funktion starter fra linje: 303//
     println("Opgave 2:")
 
     val max : Int = getMax(5,19,8);
@@ -205,6 +205,7 @@ fun main () {
 
 
     //opgave 3//
+    //Funktion starter fra linje: 329//
 
     println("opgave 3:")
 
@@ -216,6 +217,7 @@ val listOfNumbers = listOf<Int>(1,2,3,4,5,6,7)
 
 
     //Opgave 4//
+    //Funktion starter fra linje: 345//
 
     println("Opgave 4:")
 
@@ -237,6 +239,7 @@ val firstCpr = "0804051234"
 
 
     //opgave 5//
+    //Der er ikke lavet noget udenfor main i denne//
 
     println("Opgave 5:")
 
@@ -253,6 +256,7 @@ println("FizzBuzz")
 
 
     //Opgave 6//
+    //Funktion starter fra linje: 377//
 
     println("Opgave 6:")
 
@@ -264,6 +268,7 @@ println("FizzBuzz")
 
 
     //Opgave 7//
+    //Funktion starter fra linje: 397//
 
     println("Opgave 7:")
 
@@ -278,6 +283,7 @@ val grade3 =calculateGrade(44)
 
 
     //Opgave 8//
+    //Funktion starter fra linje: 415//
 
     println("Opgave 8:")
 
